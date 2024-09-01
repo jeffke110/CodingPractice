@@ -1,17 +1,15 @@
-# Learn-Advanced-Modern-C-Tutorial
+# Practice Repository for LeetCode and Unreal Engine C++ Development
 
-# Modern C++ Mastery: Intermediate to Advanced Concepts
+Welcome to my practice repository! This repo serves as a collection of my coding exercises and projects as I work through LeetCode problems in C++ and develop my skills with Unreal Engine's C++ framework.
 
-This repository documents my progress through a comprehensive course designed to elevate my C++ skills to an intermediate-to-advanced level. The course focuses on modern C++ (C++11, C++14, C++17), with in-depth coverage of the Standard Template Library (STL), including algorithms. The final project involves developing a game using the SFML graphics library.
+## Repository Structure
 
-Course Link: https://www.udemy.com/course/learn-intermediate-modern-c/?couponCode=SKILLS4SALEB
+- **LeetCode Solutions (C++):**
+  - A dedicated folder containing my solutions to various LeetCode problems.
+  - Each solution is organized by problem category (e.g., arrays, strings, dynamic programming).
+  - For each problem, you'll find a `.cpp` file with a well-documented solution that outlines the approach
 
-## Key Learning Outcomes
-- Deep understanding of modern C++ features
-- Mastery of the Standard Template Library (STL)
-- Development of safer, more efficient, and expressive code
-- Practical experience in game development with SFML
+- **Unreal Engine C++ Projects:**
+  - A section of the repository focused on my learning journey with Unreal Engine C++.
+  - Here, I explore various concepts of Unreal Engine's C++ API, including game mechanics, animations, and system architecture.
 
-## Prerequisites
-- Intermediate knowledge of C++
-- Compiler supporting C++11/14/17
